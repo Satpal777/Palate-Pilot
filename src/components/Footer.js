@@ -1,6 +1,6 @@
 const Footer = () => (
     <div className="footer">
-        Made in with Namaste React🚀
+        Made in ❤️ with Namaste React 🚀
     </div>
 );
 
